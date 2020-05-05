@@ -1,0 +1,245 @@
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\MyMediaPlayer.exe.config
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\MyMediaPlayer.exe
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\MyMediaPlayer.pdb
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\FFmpeg.AutoGen.dll
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Blob.dll
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\FFmpeg.AutoGen.xml
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.pdb
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.xml
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Blob.pdb
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Blob.xml
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MainWindow.g.cs
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\App.g.cs
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer_Content.g.cs
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer_MarkupCompile.cache
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer_MarkupCompile.lref
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MainWindow.baml
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.g.resources
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.Properties.Resources.resources
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.csproj.GenerateResource.cache
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.csproj.CopyComplete
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.exe
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.pdb
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\Python.Runtime.dll
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\Python.Runtime.pdb
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\Python.Runtime.xml
+C:\Users\bello\Downloads\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.csprojAssemblyReference.cache
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\MyMediaPlayer.exe.config
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\MyMediaPlayer.exe
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\MyMediaPlayer.pdb
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\FFmpeg.AutoGen.dll
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Blob.dll
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\FFmpeg.AutoGen.xml
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.pdb
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.xml
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Blob.pdb
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Blob.xml
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\Python.Runtime.pdb
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\Python.Runtime.xml
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.csprojAssemblyReference.cache
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MainWindow.g.cs
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\App.g.cs
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer_Content.g.cs
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer_MarkupCompile.cache
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer_MarkupCompile.lref
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MainWindow.baml
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.g.resources
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.Properties.Resources.resources
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.csproj.GenerateResource.cache
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.csproj.CopyComplete
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.exe
+C:\Users\bello\anaconda3\GMFN\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.pdb
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\MyMediaPlayer.exe.config
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\MyMediaPlayer.exe
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\MyMediaPlayer.pdb
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\FFmpeg.AutoGen.dll
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Blob.dll
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\FFmpeg.AutoGen.xml
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.pdb
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.xml
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Blob.xml
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\Python.Runtime.pdb
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\Python.Runtime.xml
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.csprojAssemblyReference.cache
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MainWindow.g.cs
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\App.g.cs
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer_Content.g.cs
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer_MarkupCompile.cache
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer_MarkupCompile.lref
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MainWindow.baml
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.g.resources
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.Properties.Resources.resources
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.csproj.GenerateResource.cache
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.csproj.CopyComplete
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.exe
+C:\Users\BONITO\Downloads\GMFN-second (2)\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.pdb
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\MyMediaPlayer.exe.config
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\MyMediaPlayer.exe
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\MyMediaPlayer.pdb
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\FFmpeg.AutoGen.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Blob.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\FFmpeg.AutoGen.xml
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.pdb
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.xml
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Blob.xml
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.csprojAssemblyReference.cache
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MainWindow.g.cs
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\App.g.cs
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer_Content.g.cs
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer_MarkupCompile.cache
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer_MarkupCompile.lref
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MainWindow.baml
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.g.resources
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.Properties.Resources.resources
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.csproj.GenerateResource.cache
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.csproj.CopyComplete
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.exe
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.pdb
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\netstandard.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.AppContext.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Collections.Concurrent.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Collections.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Collections.NonGeneric.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Collections.Specialized.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.ComponentModel.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.ComponentModel.Primitives.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Console.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Data.Common.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Diagnostics.Contracts.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Diagnostics.Debug.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Diagnostics.Process.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Diagnostics.Tools.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Diagnostics.Tracing.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Drawing.Primitives.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Dynamic.Runtime.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Globalization.Calendars.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Globalization.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Globalization.Extensions.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.IO.Compression.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.IO.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.IO.FileSystem.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.IO.IsolatedStorage.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.IO.Pipes.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Linq.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Linq.Expressions.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Linq.Parallel.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Linq.Queryable.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Net.Http.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Net.NameResolution.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Net.NetworkInformation.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Net.Ping.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Net.Primitives.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Net.Requests.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Net.Security.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Net.Sockets.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Net.WebSockets.Client.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Net.WebSockets.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.ObjectModel.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Reflection.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Reflection.Extensions.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Reflection.Primitives.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Resources.Reader.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Resources.ResourceManager.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Resources.Writer.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Runtime.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Runtime.Extensions.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Runtime.Handles.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Runtime.InteropServices.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Runtime.Numerics.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Security.Claims.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Security.Principal.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Security.SecureString.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Text.Encoding.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Text.RegularExpressions.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Threading.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Threading.Overlapped.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Threading.Tasks.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Threading.Thread.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Threading.ThreadPool.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Threading.Timer.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Xml.ReaderWriter.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Xml.XDocument.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Xml.XmlDocument.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Xml.XmlSerializer.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Xml.XPath.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\Numpy.Bare.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\Python.Runtime.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\bin\x64\Debug\Torch.NET.dll
+C:\Users\BONITO\Downloads\GMFN\GMFN-second\MyMediaPlayer\MyMediaPlayer\MyMediaPlayer\obj\x64\Debug\MyMediaPlayer.exe.config
